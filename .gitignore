@@ -1,0 +1,7 @@
+data/
+Mining-Objects/
+pytorch-unsupervised-segmentation-tip/
+.DS_Store
+
+*~
+*/*.ipynb_checkpoints/
