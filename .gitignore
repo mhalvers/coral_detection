@@ -5,3 +5,5 @@ pytorch-unsupervised-segmentation-tip/
 
 *~
 */*.ipynb_checkpoints/
+
+logs.log
