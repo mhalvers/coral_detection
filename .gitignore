@@ -1,4 +1,5 @@
 data/
+dataset/
 Mining-Objects/
 pytorch-unsupervised-segmentation-tip/
 .DS_Store
